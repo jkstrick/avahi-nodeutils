@@ -8,19 +8,18 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dottgonzo/avahi-nodeutils.git"
+    "url": "git+https://github.com/pdulapalli/avahi-nodeutils.git"
   },
   "keywords": [
     "avahi",
     "zero-conf",
     "bonjour"
   ],
-  "author": "Dario Causo",
   "license": "Apache-2.0",
   "bugs": {
-    "url": "https://github.com/dottgonzo/avahi-nodeutils/issues"
+    "url": "https://github.com/pdulapalli/avahi-nodeutils/issues"
   },
-  "homepage": "https://github.com/dottgonzo/avahi-nodeutils#readme",
+  "homepage": "https://github.com/pdulapalli/avahi-nodeutils#readme",
   "devDependencies": {
     "chai": "^3.5.0",
     "gulp": "^3.9.1",
