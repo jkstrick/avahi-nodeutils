@@ -1,5 +1,5 @@
 {
-  "name": "avahi-node-utils",
+  "name": "@pdulapalli/avahi-node-utils",
   "version": "1.2.0",
   "description": "Avahi utils",
   "main": "index.js",
