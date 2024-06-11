@@ -1,6 +1,6 @@
 {
-  "name": "@pdulapalli/avahi-node-utils",
-  "version": "1.2.0",
+  "name": "@jkstrick/avahi-nodeutils",
+  "version": "1.2.1",
   "description": "Avahi utils",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/pdulapalli/avahi-nodeutils.git"
+    "url": "git+https://github.com/jkstrick/avahi-nodeutils.git"
   },
   "keywords": [
     "avahi",
@@ -17,9 +17,9 @@
   ],
   "license": "Apache-2.0",
   "bugs": {
-    "url": "https://github.com/pdulapalli/avahi-nodeutils/issues"
+    "url": "https://github.com/jkstrick/avahi-nodeutils/issues"
   },
-  "homepage": "https://github.com/pdulapalli/avahi-nodeutils#readme",
+  "homepage": "https://github.com/jkstrick/avahi-nodeutils#readme",
   "devDependencies": {
     "chai": "^3.5.0",
     "gulp": "^3.9.1",
@@ -32,7 +32,8 @@
     "gulp-tag-version": "^1.3.0",
     "gulp-typescript": "^2.13.6",
     "gulp-util": "^3.0.7",
-    "mocha": "^3.0.2"
+    "mocha": "^3.0.2",
+    "typescript": "^5.4.5"
   },
   "dependencies": {
     "bluebird": "^3.4.6"

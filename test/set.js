@@ -1,9 +1,8 @@
 "use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
 var index_1 = require("../index");
-index_1.setHostname('test').then(function (a) {
+(0, index_1.setHostname)('test').then(function (a) {
     console.log(a);
 }).catch(function (err) {
     console.log(err);
 });
-
-//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbInRlc3Qvc2V0LnRzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiI7QUFBQSxzQkFBNEIsVUFFNUIsQ0FBQyxDQUZxQztBQUV0QyxtQkFBVyxDQUFDLE1BQU0sQ0FBQyxDQUFDLElBQUksQ0FBQyxVQUFDLENBQUM7SUFDdkIsT0FBTyxDQUFDLEdBQUcsQ0FBQyxDQUFDLENBQUMsQ0FBQTtBQUNsQixDQUFDLENBQUMsQ0FBQyxLQUFLLENBQUMsVUFBQyxHQUFHO0lBQ1QsT0FBTyxDQUFDLEdBQUcsQ0FBQyxHQUFHLENBQUMsQ0FBQTtBQUNwQixDQUFDLENBQUMsQ0FBQSIsImZpbGUiOiJ0ZXN0L3NldC5qcyIsInNvdXJjZXNDb250ZW50IjpbImltcG9ydCB7IHNldEhvc3RuYW1lIH0gZnJvbSBcIi4uL2luZGV4XCJcblxuc2V0SG9zdG5hbWUoJ3Rlc3QnKS50aGVuKChhKSA9PiB7XG4gICAgY29uc29sZS5sb2coYSlcbn0pLmNhdGNoKChlcnIpID0+IHtcbiAgICBjb25zb2xlLmxvZyhlcnIpXG59KSJdLCJzb3VyY2VSb290IjoiL3NvdXJjZS8ifQ==
